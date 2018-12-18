@@ -23,6 +23,10 @@ This app's structure was bootstrapped with [Create React App](https://github.com
 Then in the project directory, we can run:
 
 ### `npm install`
+
+Note:
+node version 9.9.0 and npm version 5.6.0
+
 Installs dependencies.
 
 ### `npm start`
